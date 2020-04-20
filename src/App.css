@@ -105,3 +105,9 @@ input:-webkit-autofill {
   color:#fff;
   letter-spacing: 2px;
 }
+
+@media only screen and (max-width: 768px) {
+  .Wrapper{
+  height:100%;
+  }
+}

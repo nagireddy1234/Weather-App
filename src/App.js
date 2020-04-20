@@ -3,9 +3,8 @@ import Titles from "./Components/Titles";
 import Form from "./Components/Form";
 import Weather from "./Components/Weather";
 import "./App.css";
-require('dotenv').config();
 
-const API_KEY =process.env.REACT_APP_API_KEY;
+const API_KEY ="a67d34336bd3fbc5aa3884cc0920de47";
 
 class App extends React.Component {
    state={
